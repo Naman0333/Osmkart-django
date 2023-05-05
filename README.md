@@ -1,1 +1,0 @@
-# Osmkart-django
